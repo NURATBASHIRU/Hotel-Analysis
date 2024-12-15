@@ -16,14 +16,14 @@ In this project, I performed quantitative analysis that creates deep insights on
 
 ### Data Preparation Process
 The data set originally obtained from Kaggle contained lots of of encoded information. For example; the country and meal services columns;
-
-<img width="956" alt="dirty_data" src="https://github.com/user-attachments/assets/296cffda-a2c0-43fe-adf3-408e0aedd0a2" />
 <img width="960" alt="dirty_data2" src="https://github.com/user-attachments/assets/6900e048-848e-4eca-be6a-bbf474f906cc" />
 
 
 ### Steps taken;
 <img width="960" alt="clean_data" src="https://github.com/user-attachments/assets/6c3708d3-1cd8-4bbd-8899-740e27475a7c" />
-<img width="960" alt="clean_data2" src="https://github.com/user-attachments/assets/d988d483-02ee-4562-b06b-384286618fc5" />
+
+<img width="959" alt="pq_hotel_analysis" src="https://github.com/user-attachments/assets/d8223bfe-41c8-49dc-bf4a-ef07aa621072" />
+
 
 
 My data cleaning process was executed in Excel power query. And it’s important to note that some of the information encoded in the original dataset are familiar to me due to my academic background in Tourism, Hospitality and Events Management.
